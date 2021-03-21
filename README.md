@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 ## I'm Yan Fróes!
  
-… Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
+Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
  
  
 ## About me 
