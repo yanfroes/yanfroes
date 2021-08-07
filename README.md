@@ -22,8 +22,7 @@ Here are some ideas to get you started:
  
 Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
  
-- 🔭 I’m currently working at Edify Online
-- 🌱 I’m currently learning Vue.js and automated tests (RSpec) in Ruby on Rails
+- 🔭 I’m currently working at Edify Online with Ruby on Rails, Vue.js and Buefy (Bulma for Vue.js)
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanfroes)](https://github.com/yanfroes)
