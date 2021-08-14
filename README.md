@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
  
 - 🔭 I’m currently working at Edify Online with Ruby on Rails, Vue.js and Buefy (Bulma for Vue.js)
-
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanfroesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanfroes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanfroes)](https://github.com/yanfroes)
