@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
  
-- 🔭 I’m currently working at PartnerFleet with Ruby on Rails
+- 🔭 I’m currently working at Partner Fleet with Ruby on Rails
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanfroes)](https://github.com/yanfroes)
