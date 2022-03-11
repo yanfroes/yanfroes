@@ -50,8 +50,8 @@ Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURI
 <img src="https://yanfroes.github.io/siteyanfroes/icons/illustrator.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/canva.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/premierepro.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/3dvista.png" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/aftereffects.svg" height="37" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/3dvista.png" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/linux.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/ubuntu.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/chrome.svg" height="37" style="vertical-align:top; margin:4px">
