@@ -30,6 +30,16 @@ Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURI
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+33+988186272&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+33+988186272&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanfroesdev@gmail.com)](mailto:yanfroesdev@gmail.com)
  
+ 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/ruby.svg" height="30" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/rails.svg" height="30" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/vuejs.svg" height="30" style="vertical-align:top; margin:4px">
+
+</p>
+<br />
+
 - Thanks for visiting. 
  
 - Enjoy it!! o/
