@@ -1,8 +1,6 @@
 <!--
 **yanfroes/yanfroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -76,17 +74,12 @@ Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURI
 <img src="https://yanfroes.github.io/siteyanfroes/icons/amazonwebservices.svg" height="37" style="vertical-align:top; margin:4px">
 </p>
 
-## Languages and Tools I had little contact or have interest on learning in the future:
+## Languages and Tools I have interest on learning in the future:
 <p align="left">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/react.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/nextjs.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/nodejs.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/unity.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/lua.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/flutter.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/threejs.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/nuxtjs.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/mongodb.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/graphql.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/kubernetes.svg" height="37" style="vertical-align:top; margin:4px">
 </p>
