@@ -20,7 +20,7 @@
  
 Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
  
-- 🔭 I’m currently working at Partner Fleet with Ruby on Rails
+- 🔭 I’m currently working at Partner Fleet with Ruby on Rails | Vue.js | Nuxt.js
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanfroes)](https://github.com/yanfroes)
@@ -66,6 +66,7 @@ Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURI
 <img src="https://yanfroes.github.io/siteyanfroes/icons/bulma.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/javascript.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/vuejs.svg" height="37" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/nuxtjs.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/ruby.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/rails.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/docker.svg" height="37" style="vertical-align:top; margin:4px">
@@ -79,7 +80,6 @@ Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURI
 <img src="https://yanfroes.github.io/siteyanfroes/icons/unity.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/flutter.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/threejs.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/nuxtjs.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/graphql.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/kubernetes.svg" height="37" style="vertical-align:top; margin:4px">
 </p>
