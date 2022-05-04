@@ -18,7 +18,7 @@
  
 ## I'm Yan Fróes!
  
-Control and Automation Engineer, Full Stack Developer, 360 Photographer and CURIOUS about everything!
+Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer and CURIOUS about everything!
  
 - 🔭 I’m currently working at Partner Fleet with Ruby on Rails | Vue.js | Nuxt.js
  
