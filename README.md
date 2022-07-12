@@ -64,6 +64,7 @@ Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer 
 <img src="https://yanfroes.github.io/siteyanfroes/icons/sass.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/bootstrap.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/bulma.svg" height="37" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/tailwindcss.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/javascript.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/vuejs.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/nuxtjs.svg" height="37" style="vertical-align:top; margin:4px">
