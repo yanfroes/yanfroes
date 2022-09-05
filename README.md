@@ -20,7 +20,7 @@
  
 Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer and CURIOUS about everything!
  
-- 🔭 I’m currently working at Partner Fleet with Ruby on Rails | Vue.js | Nuxt.js
+- 🔭 I’m currently working at Partner Fleet with Ruby on Rails
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanfroes)](https://github.com/yanfroes)
