@@ -18,7 +18,7 @@
  
 ## I'm Yan Fróes!
  
-Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer and CURIOUS about everything!
+Control and Automation Engineer, Full Stack Software Engineer, 360/VR Hobbyist and CURIOUS about everything!
  
 - 🔭 I’m currently working at Partner Fleet with Ruby on Rails and Vue.js
  
@@ -46,11 +46,11 @@ Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer 
 <img src="https://yanfroes.github.io/siteyanfroes/icons/aftereffects.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/premierepro.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/illustrator.svg" height="37" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/siteyanfroes/icons/photoshop.svg" height="37" style="vertical-align:top; margin:4px">
 </p>
 	
 ## Languages and Tools I study/work/use in the present:
 <p align="left">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/photoshop.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/canva.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/3dvista.png" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/linux.svg" height="37" style="vertical-align:top; margin:4px">
@@ -61,7 +61,6 @@ Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer 
 <img src="https://yanfroes.github.io/siteyanfroes/icons/git.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/github.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/gitkraken.png" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/vscode.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/html5.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/css3.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/sass.svg" height="37" style="vertical-align:top; margin:4px">
@@ -82,7 +81,6 @@ Control and Automation Engineer, Full Stack Software Engineer, 360 Photographer 
 <img src="https://yanfroes.github.io/siteyanfroes/icons/flutter.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/threejs.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/siteyanfroes/icons/graphql.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/siteyanfroes/icons/kubernetes.svg" height="37" style="vertical-align:top; margin:4px">
 </p>
 
 - Thanks for visiting. 
