@@ -47,12 +47,12 @@ Control and Automation Engineer, Full Stack Software Engineer, 360/VR Hobbyist a
 <img src="https://yanfroes.github.io/dev/icons/premierepro.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/illustrator.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/photoshop.svg" height="37" style="vertical-align:top; margin:4px">
+<img src="https://yanfroes.github.io/dev/icons/3dvista.png" height="37" style="vertical-align:top; margin:4px">
 </p>
 	
 ## Languages and Tools I study/work/use in the present:
 <p align="left">
 <img src="https://yanfroes.github.io/dev/icons/canva.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/3dvista.png" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/linux.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/ubuntu.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/chrome.svg" height="37" style="vertical-align:top; margin:4px">
@@ -80,7 +80,6 @@ Control and Automation Engineer, Full Stack Software Engineer, 360/VR Hobbyist a
 <img src="https://yanfroes.github.io/dev/icons/unity.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/flutter.svg" height="37" style="vertical-align:top; margin:4px">
 <img src="https://yanfroes.github.io/dev/icons/threejs.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/graphql.svg" height="37" style="vertical-align:top; margin:4px">
 </p>
 
 - Thanks for visiting. 
