@@ -10,9 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-	
-<img align="right" width="400" height="400" src="https://yanfroes.github.io/dev/images/IMG_20181225_223522_828.jpg">
  
 # Welcome! 👋
  
