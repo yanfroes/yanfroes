@@ -88,20 +88,6 @@
 <!--                           ACTIVITY GRAPH                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## `> git log --graph --oneline`
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanfroes&bg_color=0d1117&color=00ff41&line=00d4aa&point=ffffff&area_color=00ff41&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=00ff41" width="100%" alt="Activity Graph"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              FOOTER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=120&section=footer" width="100%"/>
-
 </div>
