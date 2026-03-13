@@ -1,84 +1,187 @@
-<!--
-**yanfroes/yanfroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          TERMINAL HEADER BLOCK                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
-# Welcome! 👋
- 
-## I'm Yan Fróes!
- 
-Control and Automation Engineer, Full Stack Software Engineer, 360/VR Hobbyist and CURIOUS about everything!
- 
-- 🔭 I’m currently working at Partner Fleet with Ruby on Rails and Vue.js
- 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yanfroes)](https://github.com/yanfroes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanfroes/)](https://www.linkedin.com/in/yanfroes/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+33+988186272&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+33+988186272&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanfroesdev@gmail.com)](mailto:yanfroesdev@gmail.com)
- 
- 
-## Languages and Tools I studied/worked/used in the past:
-<p align="left">
-<img src="https://yanfroes.github.io/dev/icons/c.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/cplusplus.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/csharp.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/arduino.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/matlab.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/python.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/visualstudio.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/wordpress.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/mysql.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/bulma.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/tailwindcss.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/digitalocean.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/aftereffects.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/premierepro.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/illustrator.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/photoshop.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/3dvista.png" height="37" style="vertical-align:top; margin:4px">
-</p>
-	
-## Languages and Tools I study/work/use in the present:
-<p align="left">
-<img src="https://yanfroes.github.io/dev/icons/canva.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/linux.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/ubuntu.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/chrome.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/firefox.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/vscode.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/git.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/github.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/gitkraken.png" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/html5.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/css3.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/sass.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/bootstrap.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/javascript.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/vuejs.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/nuxtjs.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/ruby.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/rails.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/docker.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/heroku.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/amazonwebservices.svg" height="37" style="vertical-align:top; margin:4px">
-</p>
+<div align="center">
 
-## Languages and Tools I have interest on learning in the future:
-<p align="left">
-<img src="https://yanfroes.github.io/dev/icons/unity.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/flutter.svg" height="37" style="vertical-align:top; margin:4px">
-<img src="https://yanfroes.github.io/dev/icons/threejs.svg" height="37" style="vertical-align:top; margin:4px">
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=220&section=header&text=Yan%20Fróes&fontSize=72&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%24%20whoami%20→%20Senior%20Full%20Stack%20Engineer&descSize=18&descColor=00d4aa&descAlignY=55" width="100%"/>
 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+ruby+-v+%7C+rails+-v+%7C+docker+--version;%3E+Building+multi-tenant+SaaS+platforms;%3E+Deploying+with+Kamal+2+%7C+DigitalOcean+%7C+Cloudflare;%3E+AI-augmented+development+workflows" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           TERMINAL BIO BLOCK                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   yanfroes@dev:~$ cat /etc/profile                               │
+│                                                                  │
+│   ROLE="Full Stack Software Engineer"                            │
+│   COMPANY="Partner Fleet"                                        │
+│   STACK="Ruby on Rails • Vue.js • Spree Commerce"                │
+│   INFRA="Docker • Kamal 2 • DigitalOcean • Cloudflare"           │
+│   BACKGROUND="Control & Automation Engineering @ UFOP"           │
+│   LOCATION="Remote 🌎"                                          │
+│                                                                  │
+│   yanfroes@dev:~$ uptime                                         │
+│   → Building production multi-tenant SaaS since day one          │
+│   → Shipping features without a product team                     │
+│   → AI-assisted development advocate                             │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT / SOCIAL                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanfroes/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanfroes)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanfroesdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yanfroes.github.io/dev/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yanfroes&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## `> cat tech_stack.yml`
+
+<div align="center">
+
+### ⚙️ Backend & Frameworks
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Spree](https://img.shields.io/badge/Spree_Commerce-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI1IiB5PSIxOCIgZm9udC1zaXplPSIxNiIgZmlsbD0id2hpdGUiPuKZoTwvdGV4dD48L3N2Zz4=&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=for-the-badge&logo=sidekiq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Stimulus](https://img.shields.io/badge/Stimulus-77e8b9?style=for-the-badge&logo=stimulus&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🚀 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kamal](https://img.shields.io/badge/Kamal_2-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 AI & Tools
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CURRENT FOCUS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## `> ps aux | grep active_projects`
+
+```ruby
+# What I'm currently shipping 🚢
+
+module CurrentFocus
+  WORK = {
+    platform:    "PartnerFleet — Multi-tenant SaaS (Ruby on Rails + Spree Commerce)",
+    migrating:   "Heroku → DigitalOcean via Kamal 2 with SSL via Cloudflare",
+    building:    "Partner CTA feature flags, tenant isolation, performance tuning",
+    approach:    "Engineer + Product owner — shipping end-to-end"
+  }
+
+  SIDE_PROJECTS = {
+    tweener:     "Racket sports matchmaking platform (Rails + Kamal 2)",
+    yanz_dev:    "YouTube — AI-assisted programming content",
+    yanz_ia:     "YouTube — AI for general audiences",
+    yanz_vr:     "YouTube — VR gaming reviews"
+  }
+
+  EXPLORING = [
+    "Lexical rich text editor integration with Rails",
+    "Stripe Connect split payments",
+    "Solid Trifecta (Cache + Queue + Cable)",
+    "Claude Code for agentic development workflows"
+  ]
+end
+```
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         GITHUB ANALYTICS SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## `> ./analytics.sh --verbose`
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/yanfroes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanfroes&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4aa&border_color=30363d&include_all_commits=true&count_private=true&hide_border=false" alt="Yan's GitHub Stats"/>
+</a>
+<a href="https://github.com/yanfroes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanfroes&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false" alt="Top Languages"/>
+</a>
+
+<!-- GitHub Streak -->
+<a href="https://github.com/yanfroes">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanfroes&theme=dark&background=0d1117&stroke=30363d&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4aa&sideLabels=00d4aa&dates=6e7681&border=30363d" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           ACTIVITY GRAPH                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## `> git log --graph --oneline`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanfroes&bg_color=0d1117&color=00ff41&line=00d4aa&point=ffffff&area_color=00ff41&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=00ff41" width="100%" alt="Activity Graph"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "First, solve the problem. Then, write the code."             ║
+║                                              — John Johnson     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=120&section=footer" width="100%"/>
+
+</div>
