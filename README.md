@@ -5,38 +5,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=220&section=header&text=Yan%20Fróes&fontSize=72&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%24%20whoami%20→%20Senior%20Full%20Stack%20Engineer&descSize=18&descColor=00d4aa&descAlignY=55" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+ruby+-v+%7C+rails+-v+%7C+docker+--version;%3E+Building+multi-tenant+SaaS+platforms;%3E+Deploying+with+Kamal+2+%7C+DigitalOcean+%7C+Cloudflare;%3E+AI-augmented+development+workflows" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=220&section=header&text=Yan%20Fróes&fontSize=72&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%24%20whoami%20→%20Full%20Stack%20Engineer&descSize=18&descColor=00d4aa&descAlignY=55" width="100%"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           TERMINAL BIO BLOCK                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-```bash
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   yanfroes@dev:~$ cat /etc/profile                               │
-│                                                                  │
-│   ROLE="Full Stack Software Engineer"                            │
-│   COMPANY="Partner Fleet"                                        │
-│   STACK="Ruby on Rails • Vue.js • Spree Commerce"                │
-│   INFRA="Docker • Kamal 2 • DigitalOcean • Cloudflare"           │
-│   BACKGROUND="Control & Automation Engineering @ UFOP"           │
-│   LOCATION="Remote 🌎"                                          │
-│                                                                  │
-│   yanfroes@dev:~$ uptime                                         │
-│   → Building production multi-tenant SaaS since day one          │
-│   → Shipping features without a product team                     │
-│   → AI-assisted development advocate                             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          CONNECT / SOCIAL                               -->
@@ -100,39 +71,6 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         CURRENT FOCUS SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## `> ps aux | grep active_projects`
-
-```ruby
-# What I'm currently shipping 🚢
-
-module CurrentFocus
-  WORK = {
-    platform:    "PartnerFleet — Multi-tenant SaaS (Ruby on Rails + Spree Commerce)",
-    migrating:   "Heroku → DigitalOcean via Kamal 2 with SSL via Cloudflare",
-    building:    "Partner CTA feature flags, tenant isolation, performance tuning",
-    approach:    "Engineer + Product owner — shipping end-to-end"
-  }
-
-  SIDE_PROJECTS = {
-    tweener:     "Racket sports matchmaking platform (Rails + Kamal 2)",
-    yanz_dev:    "YouTube — AI-assisted programming content",
-    yanz_ia:     "YouTube — AI for general audiences",
-    yanz_vr:     "YouTube — VR gaming reviews"
-  }
-
-  EXPLORING = [
-    "Lexical rich text editor integration with Rails",
-    "Stripe Connect split payments",
-    "Solid Trifecta (Cache + Queue + Cable)",
-    "Claude Code for agentic development workflows"
-  ]
-end
-```
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                         GITHUB ANALYTICS SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -176,8 +114,8 @@ end
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   "First, solve the problem. Then, write the code."             ║
-║                                              — John Johnson     ║
+║   "First, solve the problem. Then, write the code."              ║
+║                                              — John Johnson      ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
