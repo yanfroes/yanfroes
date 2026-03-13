@@ -20,15 +20,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanfroesdev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yanfroes.github.io/dev/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yanfroes&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## `> cat tech_stack.yml`
 
 <div align="center">
 
@@ -74,14 +70,9 @@
 <!--                         GITHUB ANALYTICS SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## `> ./analytics.sh --verbose`
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/yanfroes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanfroes&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4aa&border_color=30363d&include_all_commits=true&count_private=true&hide_border=false" alt="Yan's GitHub Stats"/>
-</a>
 <a href="https://github.com/yanfroes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanfroes&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false" alt="Top Languages"/>
 </a>
@@ -110,15 +101,6 @@
 <div align="center">
 
 <br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "First, solve the problem. Then, write the code."              ║
-║                                              — John Johnson      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=120&section=footer" width="100%"/>
 
