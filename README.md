@@ -2,7 +2,7 @@
 <!--                          CONNECT / SOCIAL                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanfroes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanfroes)
@@ -15,7 +15,7 @@
 <!--                          TECH STACK SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
 ### ⚙️ Backend & Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
