@@ -1,15 +1,4 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          TERMINAL HEADER BLOCK                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00ff41&height=220&section=header&text=Yan%20Fróes&fontSize=72&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%24%20whoami%20→%20Full%20Stack%20Engineer&descSize=18&descColor=00d4aa&descAlignY=55" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          CONNECT / SOCIAL                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
