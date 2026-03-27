@@ -31,19 +31,11 @@
 ### ⚙️ Backend & Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Spree](https://img.shields.io/badge/Spree_Commerce-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI1IiB5PSIxOCIgZm9udC1zaXplPSIxNiIgZmlsbD0id2hpdGUiPuKZoTwvdGV4dD48L3N2Zz4=&logoColor=white)
-![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=for-the-badge&logo=sidekiq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Stimulus](https://img.shields.io/badge/Stimulus-77e8b9?style=for-the-badge&logo=stimulus&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -69,13 +61,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                         GITHUB ANALYTICS SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-<div align="center">
-
-<a href="https://github.com/yanfroes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanfroes&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false" alt="Top Languages"/>
-</a>
 
 <!-- GitHub Streak -->
 <a href="https://github.com/yanfroes">
